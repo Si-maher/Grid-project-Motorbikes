@@ -66,4 +66,15 @@
     html {
         font-size:22% ;
     }
+    .footer-icons {
+        margin: 1.5rem  3rem;
+        width: 10%;
+    }
+    #footer-icon {
+        
+        font-size: 4.5rem;
+      }
+      .footer-txt {
+        font-size:3rem;
+      }
 }
